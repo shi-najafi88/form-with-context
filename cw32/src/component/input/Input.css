@@ -1,0 +1,10 @@
+
+.input{
+    border: 1px solid rgb(151, 151, 151);
+    outline: none;
+    background-color: transparent;
+    width: 97%;
+    padding: 0.2rem;
+    color: aliceblue;
+    text-align: right;
+}

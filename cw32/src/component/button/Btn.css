@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.btn{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #44535A ;
+}
+
+.btn_medium{
+    padding: 0.5rem 3.4rem;
+    border: none;
+    color: aliceblue;
+}
+
+.btn_large{
+    width: 100%;
+    padding: 0.5rem;
+    color: aliceblue;
+    border: none;
+}
+
+.bg-green{
+    background-color: #1AB188;
+}

@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container_signUp{
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    width: 20vw;
+    padding: 2rem 1rem;
+    background-color: #25333c;
+    box-shadow: #c1bab8 0px 0px 0px 12px;
+}
+
+.wraper_inputName{
+    display: flex;
+    gap: 0.5rem;
+}
+
+.wraper_input_select{
+    display: flex;
+    padding: 0.2rem;
+    gap: 0.3rem;
+    border: 1px solid rgb(151, 151, 151);
+}
+
+select{
+    padding: 0.1rem;
+    direction: rtl;
+}
+
+.wraper_input_select input{
+    border: none;
+    margin-bottom: 0rem;
+}
+
+.selected_cityUnivercity{
+    width: 96%;
+}
+
+.container_signUp p{
+    color: #c1bab8;
+    margin: 1rem 0;
+    text-align: center;
+    font-size: 1.1rem;
+}
+
+
+
